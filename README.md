@@ -1,6 +1,6 @@
 ### Hi there 👋
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com/?lines=👋+Hi,+I'm+Asutosh+Kumar+Sandal!;👀+I’m+interested+in+Data+Analytics,+Cloud+Computing,+SDE,+AI,+and+ML.;🌱+I’m+studying+in+KIIT.;🌟+One+of+my+favorite+quotes:+"Success is not final, failure is not fatal: it is the courage to continue that counts." +- \Winston +Churchill&font=Fira%20Code&center=true&width=900&height=50&duration=4000&pause=1000">
+  <img src="https://readme-typing-svg.herokuapp.com/?lines=👋+Hi,+I'm+Asutosh+Kumar+Sandal!;👀+I’m+interested+in+Data+Analytics,+Cloud+Computing,+SDE,+AI,+and+ML.;🌱+I’m+studying+in+KIIT.;&font=Fira%20Code&center=true&width=900&height=50&duration=4000&pause=1000">
 </p>
 🧠 I’m currently studying Computer Science and Communication Enginner in KIIT, Bhubaneswar-751024
   
